@@ -1,4 +1,5 @@
 # SCU CourseAvail CLI
+Created by Javier Ramirez, Gabby Quintana
 ## Getting Started
 The two files must be in the same directory. Just run courses.sh to begin.
 Dependencies include the following:
