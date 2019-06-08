@@ -4,7 +4,7 @@ The two files must be in the same directory. Just run courses.sh to begin.
 Dependencies include the following:
 * Python 3.7+
   * Requests module (to request HTTP content)
-	* Pandas module (to read, clean, export data to CSV)
+  * Pandas module (to read, clean, export data to CSV)
   
 ## Introduction
 ### Need Statement
