@@ -1,0 +1,2 @@
+# SCUCourseAvailCLI
+SCU CourseAvail·CLI
